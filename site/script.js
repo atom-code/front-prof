@@ -17956,6 +17956,7 @@ var modals = function modals() {
   bindModal('.phone_link', '.popup', '.popup .popup_close'); //showModalByTime('.popup', 60000);
 };
 
+console.log(11);
 /* harmony default export */ __webpack_exports__["default"] = (modals);
 
 /***/ }),
