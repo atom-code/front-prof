@@ -17957,6 +17957,7 @@ var modals = function modals() {
 };
 
 console.log(11);
+console.log(12);
 /* harmony default export */ __webpack_exports__["default"] = (modals);
 
 /***/ }),
